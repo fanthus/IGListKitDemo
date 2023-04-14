@@ -1,0 +1,57 @@
+PODS:
+  - CocoaLumberjack/Core (3.8.0)
+  - CocoaLumberjack/Swift (3.8.0):
+    - CocoaLumberjack/Core
+  - fanthus_base_lib (0.0.8):
+    - CocoaLumberjack/Swift
+    - HexColors
+    - SnapKit
+  - HexColors (6.0.0)
+  - IGListDiffKit (4.0.0)
+  - IGListKit (4.0.0):
+    - IGListDiffKit (= 4.0.0)
+  - PinLayout (1.10.4)
+  - SDWebImage (5.15.5):
+    - SDWebImage/Core (= 5.15.5)
+  - SDWebImage/Core (5.15.5)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - fanthus_base_lib (from `https://github.com/fanthus/fanthus_base_lib.git`, tag `0.0.8`)
+  - IGListKit (~> 4.0.0)
+  - PinLayout
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - CocoaLumberjack
+    - HexColors
+    - IGListDiffKit
+    - IGListKit
+    - PinLayout
+    - SDWebImage
+    - SnapKit
+
+EXTERNAL SOURCES:
+  fanthus_base_lib:
+    :git: https://github.com/fanthus/fanthus_base_lib.git
+    :tag: 0.0.8
+
+CHECKOUT OPTIONS:
+  fanthus_base_lib:
+    :git: https://github.com/fanthus/fanthus_base_lib.git
+    :tag: 0.0.8
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 78abfb691154e2a9df8ded4350d504ee19d90732
+  fanthus_base_lib: 0867f9e2f17e2d5f4a0566e455299949822acce2
+  HexColors: f8c66339541a74bb08905bfe7cd4f8cc85e9e173
+  IGListDiffKit: 665d6cf43ce726e676013db9c7d6c4294259b6b2
+  IGListKit: fd5a5d21935298f5849fa49d426843cff97b77c7
+  PinLayout: f8a677ce0cd1cfe96b58435d029b4ceb4ce9c04c
+  SDWebImage: fd7e1a22f00303e058058278639bf6196ee431fe
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: e24a632049fcfdfd0a143516d96d39417163d41e
+
+COCOAPODS: 1.11.3

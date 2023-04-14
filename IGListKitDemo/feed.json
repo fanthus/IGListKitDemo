@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "avatar": "https://images.unsplash.com/photo-1668277272458-7bdd6ea0acf3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1Mnx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=60",
+    "type": 2,
+    "content": "Check out this beautiful view!",
+    "pic": [
+      {
+        "url": "https://images.unsplash.com/photo-1668277272458-7bdd6ea0acf3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1Mnx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=60",
+        "width": 800,
+        "height": 600
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jane",
+    "avatar": "https://images.unsplash.com/photo-1680984258298-8fc21dacce9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1N3x8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=60",
+    "type": 1,
+    "content": "Just finished writing an article on AI.",
+    "pic": null
+  },
+  {
+    "id": 3,
+    "name": "David",
+    "avatar": "https://images.unsplash.com/photo-1661956600654-edac218fea67?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHw1NHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=60",
+    "type": 2,
+    "content": "This dog is too cute!",
+    "pic": [
+      {
+        "url": "https://images.unsplash.com/photo-1661956600654-edac218fea67?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHw1NHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=60",
+        "width": 1200,
+        "height": 800
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sarah",
+    "avatar": "https://images.unsplash.com/profile-1666743426261-9045a440b46b?dpr=2&auto=format&fit=crop&w=32&h=32&q=60&crop=faces&bg=fff",
+    "type": 2,
+    "content": "Can't wait to go back to the beach!",
+    "pic": [
+      {
+        "url": "https://images.unsplash.com/profile-1666743426261-9045a440b46b?dpr=2&auto=format&fit=crop&w=32&h=32&q=60&crop=faces&bg=fff",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "url": "https://images.unsplash.com/profile-1666743426261-9045a440b46b?dpr=2&auto=format&fit=crop&w=32&h=32&q=60&crop=faces&bg=fff",
+        "width": 1080,
+        "height": 1080
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+
+.DS_Store
+.huskyrc
+commitlint.config.js
+
+## commitizen  
+node_modules/
+package-lock.json
+package.json
+
+## User settings
+xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
+*.xcscmblueprint
+*.xccheckout
+
+## compatibility with Xcode 3 and earlier (ignoring not required starting Xcode 4)
+build/
+DerivedData/
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+## Pods
+Pods/
+
+
+*.xcarchive/
+*/xcshareddata/
